@@ -1,3 +1,5 @@
+<CENTER>
+
 # CMAPSSData
 Trabalho do mestrado em computação estudando Deep Learning aplicado em previsão de falhas em turbinas de aeronaves e equipamentos industriais.
 <BR>Caso os notebooks do Colab não abram por aqui, basta baixá-los e visualizar localmente. É por alguma diferença na versão do Notebook do Colab e a do Github.
@@ -23,3 +25,4 @@ Trabalho do mestrado em computação estudando Deep Learning aplicado em previs�
 ![treinamento_3](https://github.com/gabrielfea/CMAPSSData/assets/97911416/04856629-b217-404f-855a-96f9d64231be)
 ![treinamento_4](https://github.com/gabrielfea/CMAPSSData/assets/97911416/9259c5c6-dbeb-4c89-97ae-583313503751)
 
+</CENTER>
