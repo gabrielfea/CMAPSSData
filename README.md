@@ -4,6 +4,7 @@ Trabalho do mestrado em computação estudando Deep Learning aplicado em previs�
 <BR>
 ![resultados_1](https://github.com/gabrielfea/CMAPSSData/assets/97911416/f311b3c4-bb72-40c0-a36a-6a29a55482d5)
 ![resultados_2](https://github.com/gabrielfea/CMAPSSData/assets/97911416/2630e00e-fed9-4c46-848f-fc293617f42c)
+<BR>
 ![resultados_3](https://github.com/gabrielfea/CMAPSSData/assets/97911416/244ac8b8-6650-4399-9060-febbb8b35a56)
 ![resultados_4](https://github.com/gabrielfea/CMAPSSData/assets/97911416/dd50a168-4759-4ac1-953c-07d2dbd43c8f)
 <BR>
