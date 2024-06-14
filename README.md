@@ -5,7 +5,6 @@ Trabalho do mestrado em computação estudando Deep Learning aplicado em previs�
 <BR>Caso os notebooks do Colab não abram por aqui, basta baixá-los e visualizar localmente. É por alguma diferença na versão do Notebook do Colab e a do Github.
 <BR>
 
-<CENTER>
 ![resultados_1](https://github.com/gabrielfea/CMAPSSData/assets/97911416/f311b3c4-bb72-40c0-a36a-6a29a55482d5)
 ![resultados_2](https://github.com/gabrielfea/CMAPSSData/assets/97911416/2630e00e-fed9-4c46-848f-fc293617f42c)
 <BR>
@@ -26,4 +25,4 @@ Trabalho do mestrado em computação estudando Deep Learning aplicado em previs�
 ![treinamento_2](https://github.com/gabrielfea/CMAPSSData/assets/97911416/ceb7b0a6-349a-4013-bdac-3baf77fe518f)
 ![treinamento_3](https://github.com/gabrielfea/CMAPSSData/assets/97911416/04856629-b217-404f-855a-96f9d64231be)
 ![treinamento_4](https://github.com/gabrielfea/CMAPSSData/assets/97911416/9259c5c6-dbeb-4c89-97ae-583313503751)
-</CENTER>
+
